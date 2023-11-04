@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ve5llYpakmQ1DwjUqJSAvOQwEavqo5+RZEFnvqpzIUSIpEPdkdQSXxcflR44q21aTg6r1945r9Gjp8vQlTsvrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\RabbitMQ\\RabbitMQ.Default\\Producer\\Producer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\rabbitmq.client\\6.6.0\\rabbitmq.client.6.6.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
