@@ -18,7 +18,6 @@ EventingBasicConsumer consumer = new(channel);
 
 channel.BasicConsume(queue: "default-queue", autoAck: true, consumer: consumer);
 
-
 consumer.Received += Consumer_Received;
 void Consumer_Received(object? sender, BasicDeliverEventArgs e)
 {   

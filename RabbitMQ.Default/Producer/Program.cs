@@ -13,13 +13,18 @@ using IModel channel = connection.CreateModel();
 channel.QueueDeclare(queue: "default-queue", exclusive: false);
 
 //Queue(quyruga) mesaj gondermek.
-Console.Write("Gonderilen Mesaj: ");
-string message = Console.ReadLine();
+while (true)
+{
+    Console.Write("Gonderilen Mesaj: ");
+    string message = Console.ReadLine();
 
-byte[] data = Encoding.UTF8.GetBytes(message);
+    byte[] data = Encoding.UTF8.GetBytes(message);
 
-channel.BasicPublish(exchange: "", routingKey: "default-queue", body: data);
+    channel.BasicPublish(exchange: "", routingKey: "default-queue", body: data);
+}
 
 Console.Read();
+
+
 
 
