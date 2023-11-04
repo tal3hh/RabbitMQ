@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Producer", "Producer\Producer.csproj", "{9568837A-8992-4138-813B-DC99542530EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{D0F8080C-37ED-4E2D-9AFF-A74732AFAD5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumer", "Consumer\Consumer.csproj", "{D95E620C-41BE-4048-81EC-E801767CD793}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9568837A-8992-4138-813B-DC99542530EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9568837A-8992-4138-813B-DC99542530EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9568837A-8992-4138-813B-DC99542530EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9568837A-8992-4138-813B-DC99542530EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0F8080C-37ED-4E2D-9AFF-A74732AFAD5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F8080C-37ED-4E2D-9AFF-A74732AFAD5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F8080C-37ED-4E2D-9AFF-A74732AFAD5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F8080C-37ED-4E2D-9AFF-A74732AFAD5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D95E620C-41BE-4048-81EC-E801767CD793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D95E620C-41BE-4048-81EC-E801767CD793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D95E620C-41BE-4048-81EC-E801767CD793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D95E620C-41BE-4048-81EC-E801767CD793}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD55F719-6E45-4A1B-8C2B-54D15A2035B4}
+	EndGlobalSection
+EndGlobal
