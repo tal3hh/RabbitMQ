@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\RabbitMQ\RabbitMQ.Header\Consumer1\obj\Debug\net7.0\Consumer1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\RabbitMQ\RabbitMQ.Header\Consumer1\obj\Debug\net7.0\Consumer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\RabbitMQ\RabbitMQ.Header\Consumer1\obj\Debug\net7.0\Consumer1.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\RabbitMQ\RabbitMQ.Header\Consumer1\obj\Debug\net7.0\Consumer1.AssemblyInfo.cs
+C:\Users\HP\Desktop\RabbitMQ\RabbitMQ.Header\Consumer1\obj\Debug\net7.0\Consumer1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\RabbitMQ\RabbitMQ.Header\Consumer1\bin\Debug\net7.0\Consumer1.exe
+C:\Users\HP\Desktop\RabbitMQ\RabbitMQ.Header\Consumer1\bin\Debug\net7.0\Consumer1.deps.json
+C:\Users\HP\Desktop\RabbitMQ\RabbitMQ.Header\Consumer1\bin\Debug\net7.0\Consumer1.runtimeconfig.json
+C:\Users\HP\Desktop\RabbitMQ\RabbitMQ.Header\Consumer1\bin\Debug\net7.0\Consumer1.dll
+C:\Users\HP\Desktop\RabbitMQ\RabbitMQ.Header\Consumer1\bin\Debug\net7.0\Consumer1.pdb
+C:\Users\HP\Desktop\RabbitMQ\RabbitMQ.Header\Consumer1\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\HP\Desktop\RabbitMQ\RabbitMQ.Header\Consumer1\obj\Debug\net7.0\Consumer1.csproj.CopyComplete
+C:\Users\HP\Desktop\RabbitMQ\RabbitMQ.Header\Consumer1\obj\Debug\net7.0\Consumer1.dll
+C:\Users\HP\Desktop\RabbitMQ\RabbitMQ.Header\Consumer1\obj\Debug\net7.0\refint\Consumer1.dll
+C:\Users\HP\Desktop\RabbitMQ\RabbitMQ.Header\Consumer1\obj\Debug\net7.0\Consumer1.pdb
+C:\Users\HP\Desktop\RabbitMQ\RabbitMQ.Header\Consumer1\obj\Debug\net7.0\Consumer1.genruntimeconfig.cache
+C:\Users\HP\Desktop\RabbitMQ\RabbitMQ.Header\Consumer1\obj\Debug\net7.0\ref\Consumer1.dll
